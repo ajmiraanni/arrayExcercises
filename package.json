@@ -1,0 +1,19 @@
+{
+  "name": "array-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "start": "tsc && node bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^20.11.28",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
